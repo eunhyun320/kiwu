@@ -21,7 +21,9 @@
 - git log : 이메일, 사용자 이름 표시
 - git checkout 해시코드(16진수 전체 또는 앞7자리)
 - git checkout -
-
+- git branch -M main
+- git remote add origin 원격리포지토리주소
+- git push -u origin main
 
 
 
