@@ -1,0 +1,7 @@
+리눅스 명령어
+clear
+
+깃 명령어
+- git clone https://github.com/eunhyun320/kiwu.git .  : 깃허브에 올려둔거 컴터로 끌고 오기
+-> 이렇게 해서 가져오면 git init 안해줘도 저번거 끌고오는거라 기록 다 남아있음
+- $ git log --oneline : log기록 한줄로
